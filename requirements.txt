@@ -1,0 +1,16 @@
+torch
+torchaudio
+tqdm
+tensorflow==2.15.0
+onnx==1.15.0
+nvidia-pyindex
+onnx-graphsurgeon
+onnxruntime==1.16.3
+onnxsim==0.4.33
+simple_onnx_processing_tools
+onnx2tf
+protobuf==3.20.3
+h5py==3.7.0
+psutil==5.9.5
+ml_dtypes==0.2.0
+
