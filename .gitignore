@@ -1,3 +1,4 @@
 saved_model/
 SpeechCommands/
 filted_dataset
+__pycache__/
